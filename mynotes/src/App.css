@@ -140,6 +140,8 @@ a {
 
 .notes-list::-webkit-scrollbar {
   display: none;
+   background-color: green;
+  
 }
 
 .notes-list-item {
